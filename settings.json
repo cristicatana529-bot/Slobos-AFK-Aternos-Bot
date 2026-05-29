@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cristycatana12-oIOd.aternos.me",
+    "ip": "cristycatana12-oIOd.aternos.me:30571",
     "port": 30571,
     "version": "",
     "try-creative": false
