@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "cristy123",
     "type": "offline"
   },
   "server": {
-    "ip": "cristycatana12-oIOd.aternos.me:30571",
+    "ip": "cristycatana12-oIOd.aternos.me",
     "port": 30571,
     "version": "",
     "try-creative": false
